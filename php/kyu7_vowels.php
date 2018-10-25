@@ -3,7 +3,7 @@
 function getCount($str) {
     $vowelsCount = 0;
     $str = str_split($str);
-    
+
     $vowels = ['a', 'e', 'i', 'o', 'u'];
     foreach ($vowels as $vowel) {
         foreach ($str as $letter) {
@@ -12,8 +12,6 @@ function getCount($str) {
             }
         }
     }
-    
+
     return $vowelsCount;
   }
-
-echo getCount('ababababa');
