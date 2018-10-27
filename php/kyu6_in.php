@@ -20,10 +20,3 @@ function inArray($array1, $array2) {
 
     return $in;
 }
-
-//$a2 = ["lively", "alive", "harp", "sharp", "armstrong"];
-//$a1 = ["arp", "live", "strong"];
-$a1 = array(1.9, 'ou', 've', 'ect', 'omm', 'gla', 'oint', 'pini', 'wh', 'oes', 'by', 'ion', 'or', 'he', 'ple', 'ing');
-$a2 = array('you', '', 'In', '1.9.2.', 'for', 'does', '', '', '', 'me', '', '', '', 'I', '', 'Ruby', 'the', '', '');
-// expected 1.9, by, he, oes, or, ou
-inArray($a1, $a2);

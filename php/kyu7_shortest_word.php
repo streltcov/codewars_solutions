@@ -1,5 +1,14 @@
 <?php
 
+/**
+ * Simple, given a string of words, return the length of the shortest word(s)
+ * String will never be empty and you do not need to account for different data types
+ */
+
+/**
+ * solution
+ */
+
 function findShort($str){
     $str = explode(" ", $str);
     $check = count(str_split($str[0]));
@@ -10,7 +19,3 @@ function findShort($str){
     }
     return $check;
 }
-
-$str1 = "bitcoin take over the world maybe who knows perhaps";
-
-findShort($str1);

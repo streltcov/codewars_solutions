@@ -1,5 +1,13 @@
 <?php
 
+/**
+ * Write a function called repeatStr which repeats the given string string exactly n times
+ */
+
+/**
+ * solution
+ */
+
 function repeatStr($n, $str)
 {
     $add = $str;
@@ -8,5 +16,3 @@ function repeatStr($n, $str)
     }
     return $str;
 }
-
-echo repeatStr(9, 'l');

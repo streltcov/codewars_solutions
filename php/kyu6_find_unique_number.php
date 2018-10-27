@@ -1,5 +1,13 @@
 <?php
 
+/**
+ * 
+ */
+
+/**
+ * solution
+ */
+
 function find_uniq($a) {
     $check = $a[0];
     if ($check == $a[1]) {
@@ -13,5 +21,3 @@ function find_uniq($a) {
         return $check;
     }
 }
-
-echo find_uniq([0, 1, 0]);
