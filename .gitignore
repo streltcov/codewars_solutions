@@ -1,0 +1,8 @@
+.DS_Store/
+.idea/
+__pycache__/
+python/__pycache__/
+*.swp
+php/*.swp
+python/*.swp
+js/*.swp
