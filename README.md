@@ -6,6 +6,6 @@
 
 - Kyu - a digit that shows kata difficulty level or the user rank on the platform
 ## Index
-### [Python Kata](Python.md)
+### [Python Kata](kata_lists/python.md)
 ### [SQL Kata](SQL.md)
 ### [PHP Kata](PHP.md)
