@@ -1,8 +1,12 @@
 ### Python kata
 
+##### Kyu-5
+1. Calculate Variance - [[kata]](https://www.codewars.com/kata/5266fba01283974e720000fa) [[solution]](../python/kyu5_calculate_variance.py)
+2. Number of trailing zeros of N - [[kata]](https://www.codewars.com/kata/52f787eb172a8b4ae1000a34) [[solution]](../python/kyu5_number_of_trailing_zeros_of_N.py)
 
+---
 ##### Kyu-6
-1. Mexican Wave - [[kata]]() [[solution]](../python/kyu6_mexican_wave.py)
+1. Mexican Wave - [[kata]](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029) [[solution]](../python/kyu6_mexican_wave.py)
 2. Multiplication tables - [[kata]](https://www.codewars.com/kata/5432fd1c913a65b28f000342) [[solution]](../python/kyu6_multiplication_tables.py)
 3. Array diff - [[kata]](https://www.codewars.com/kata/523f5d21c841566fde000009) [[solution]](../python/kyu6_array_diff.py)
 4. Autocomplete! Yay! - [[kata]](https://www.codewars.com/kata/5389864ec72ce03383000484) [[solution]](../python/kyu6_autocomplete_yay.py)
@@ -16,6 +20,8 @@
 12. Break camelCase - [[kata]](https://www.codewars.com/kata/5208f99aee097e6552000148) [[solution]](../python/kyu6_break_camel_case.py)
 13. Detect Pangram - [[kata]](https://www.codewars.com/kata/545cedaa9943f7fe7b000048) [[solution]](../python/kyu6_detect_pangram.py)
 14. Pascal's Triangle - [[kata]](https://www.codewars.com/kata/5226eb40316b56c8d500030f) [[solution]](../python/kyu6_pascals_triangle.py)
+15. Find the odd int - [[kata]](https://www.codewars.com/kata/54da5a58ea159efa38000836) [[solution]](../python/kyu6_find_the_odd_int.py)
+
 -----
 ##### Kyu-7
 1. Square every digit - [[kata]](https://www.codewars.com/kata/546e2562b03326a88e000020) [[solution]](../python/kyu7_square_digits.py)
@@ -24,6 +30,8 @@
 4. List Filtering - [[kata]](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd) [[solution]](../python/kyu7_list_filtering.py)
 5. Vowel Count - [[kata]](https://www.codewars.com/kata/54ff3102c1bad923760001f3) [[solution]](../python/kyu7_vowels_count.py)
 6. Reverse Letters in Sentence - [[kata]](https://www.codewars.com/kata/57ebdf944cde58f973000405) [[solution]](../python/kyu7_reverse_letters_in_sentence.py)
+7. transform an array into string [[kata]](https://www.codewars.com/kata/59a602dc57019008d900004e/train/python) [[solution]](../python/kyu7_transform_an_array_into_strig.py)
+8. Easy Wallpaper - [[kata]](https://www.codewars.com/kata/567501aec64b81e252000003) [[solution]](../python/kyu7_easy_wallpaper.py)
 
 -----
 ##### Kyu-8
