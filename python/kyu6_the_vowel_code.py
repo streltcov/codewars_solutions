@@ -15,20 +15,19 @@ Step 2: Now create a function called decode() to turn the numbers back into vowe
 above
 For example, decode("h3 th2r2") would return "hi there"
 For the sake of simplicity, you can assume that any numbers passed into the function will correspond to vowels
+
 """
+
+vowels = {'a': 1, 'e': 2, 'i': 3, 'o': 4, 'u': 5, 'A': 1, 'E': 2, 'I': 3, 'O': 4, 'U': 5,}
 
 
 def encode(st):
-    encoded = ''
-    vowels = {'a': 1, 'e': 2, 'i': 3, 'o': 4, 'u': 5}
-    for char in st:
-        encoded += str(vowels[str(char).lower()]) if str(char).lower() in vowels.keys() else str(char)
-    return encoded
+    encode_char = lambda char: char if char not in vowels.keys() else str(vowels.get(char, ''))
+    return ''.join([encode_char(a) for a in st])
 
 
 def decode(st):
-    decoded = ''
-    numbers = {'1': 'a', '2': 'e', '3': 'i', '4': 'o', '5': 'u'}
-    for char in st:
-        decoded += str(numbers[str(char)]) if char in numbers.keys() else char
-    return decoded
+    inversed_vowels = {str(v): str(k) for k, v in vowels.items()}
+    decode_char = lambda char: char if char not in inversed_vowels.keys() else str(
+        inversed_vowels.get(char, '')).lower()
+    return ''.join([decode_char(a) for a in st])
