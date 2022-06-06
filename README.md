@@ -74,12 +74,14 @@
 ##### Kyu-5
 1. SQL Basics: simple VIEW - [[kata]](https://www.codewars.com/kata/5811527d9d278b242f000006) [[solution]](sql/kyu5_SQL_Basics_simple_VIEW.sql)
 2. SQL Statistics: min, median, max - [[kata]](https://www.codewars.com/kata/58167fa1f544130dcf000317) [[solution]](sql/kyu5_SQL_Statistics_min_median_max.sql)
+3. Count weekdays - [[kata]](https://www.codewars.com/kata/58241d05e7a162c5b100010f) [[solution]](sql/kyu5_count_weekdays.sql)
 
 ##### Kyu-6
 1. Conditional count - [[kata]](https://www.codewars.com/kata/5816a3ecf54413a113000074) [[solution]](sql/kyu6_conditional_count.sql)
 2. Present JSON data the SQL way - [[kata]](https://www.codewars.com/kata/5daf515c3affec002b2fb921/train/sql) [[solution]](sql/kyu6_present_JSON_data_the_SQL_way.sql)
 3. SQL Basics: monsters using CASE - [[kata]](https://www.codewars.com/kata/593ef0e98b90525e090000b9) [[solution]](sql/kyu6_SQL_Basics_monsters_using_CASE.sql)
 4. SQL Basics: simple null handling - [[kata]](https://www.codewars.com/kata/5811315e04adbbdb5000050e) [[solution]](sql/kyu6_SQL_Basics_simple_null_handling.sql)
+5. SQL Basics: simple WITH - [[kata]](https://www.codewars.com/kata/5811501c2d35672d4f000146) [[solution]](sql/kyu6_SQL_Basics_simple_WITH.sql)
 
 ##### Kyu-7
 1. Basics: length based select with LIKE - [[kata]](https://www.codewars.com/kata/5a8d94d3ba1bb569e5000198) [[solution]](sql/kyu7_BASICS_length_based_select_with_like.sql)
@@ -91,6 +93,7 @@
 7. SQL: concatenating columns - [[kata]](https://www.codewars.com/kata/59440034e94fae05b2000073) [[solution]](sql/kyu7_SQL_concatenating_columns.sql)
 8. SQL with LOTR: elven wildcard - [[kata]](https://www.codewars.com/kata/5ad90fb688a0b74111000055) [[solution]](sql/kyu7_SQL_with_LOTR_elven_wildcards.sql)
 9. Sum of angles - [[kata]](https://www.codewars.com/kata/5a03b3f6a1c9040084001765) [[solution]](sql/kyu7_sum_of_angles.sql)
+10. Countries capitals for Trivia night - [[kata]](https://www.codewars.com/kata/5e5f09dc0a17be0023920f6f) [[solution]](sql/kyu7_counties_capitals_for_trivia_night.sql)
 
 ##### Kyu-8
 1. Adults only - [[kata]](https://www.codewars.com/kata/590a95eede09f87472000213) [[solution]](sql/kyu8_adults_only.sql)
